@@ -73,7 +73,7 @@ EXTRA_CFLAGS = \
 	-DHW_OOB \
 	-DMMC_SDIO_ABORT \
 	-DCUSTOMER_HW3 \
-#	-DCSCAN
+	-DCSCAN
 #	-DSDIO_ISR_THREAD		#by sjpark 10-11-18
 #	\
 	-fshort-wchar \
