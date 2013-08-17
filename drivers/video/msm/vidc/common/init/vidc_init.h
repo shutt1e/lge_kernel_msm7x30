@@ -26,7 +26,6 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  */
-
 #ifndef VIDC_INIT_H
 #define VIDC_INIT_H
 

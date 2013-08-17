@@ -15,7 +15,6 @@
  * 02110-1301, USA.
  *
  */
-
 #include <linux/cdev.h>
 #include <linux/device.h>
 #include <linux/fs.h>
